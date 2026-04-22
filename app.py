@@ -7,7 +7,7 @@ st.subheader("이걸로 공부하면 정말~ 좋아요🤠🐱")
 text_input = st.text_area("소리로 듣고 싶은 문장을 써보세요.")
 
 language = st.selectbox(
-    "Choose a language: 🇰🇷 🇺🇸 🇬🇧 🇯🇵 ",
+    "언어를 선택해볼까요?: 🇰🇷 🇺🇸 🇬🇧 🇯🇵 ",
     [
         "Korean",
         "English (American)",
