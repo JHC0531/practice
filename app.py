@@ -22,7 +22,7 @@ if tts_button and text_input:
     lang_codes = {
         "Korean": ("ko", None),
         "English (American)": ("en", "com"),
-        "English (British)": ("en", "co.uk")
+        "English (British)": ("en", "co.uk"),
         "Japanese": ("ja", None)
     }
 
